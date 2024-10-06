@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intotechwj&label=Profile%20views&color=0e75b6&style=flat" alt="intotechwj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=intotechwj" alt="intotechwj" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/m_furkan_sahin" target="blank"><img src="https://img.shields.io/twitter/follow/m_furkan_sahin?logo=twitter&style=for-the-badge" alt="m_furkan_sahin" /></a> </p>
 
 - 🌱 I’m currently learning **Mobile Application Development**
 
@@ -31,3 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=intotechwj&" alt="intotechwj" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=intotechwj" alt="intotechwj" /></a> </p>
