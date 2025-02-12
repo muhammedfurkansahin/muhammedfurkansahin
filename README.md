@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Mobile Application Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/intotechwj](https://github.com/intotechwj)
+- 👨‍💻 All of my projects are available at [https://github.com/muhammedfurkansahin](https://github.com/muhammedfurkansahin)
 
 - 📫 How to reach me **mfurkansahindev@gmail.com**
 
