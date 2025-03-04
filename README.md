@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mfurkansahindev@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/intotechwj/Resume](https://github.com/intotechwj/Resume)
+- 📄 Know about my experiences [https://github.com/intotechwj/Resume](https://github.com/muhammedfurkansahin/Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
