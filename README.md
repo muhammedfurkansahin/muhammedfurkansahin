@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intotechwj&label=Profile%20views&color=0e75b6&style=flat" alt="intotechwj" /> </p>
 
 
-- 🌱 I’m currently learning **Mobile Application Development**
+- 🌱 I’m currently working **Mobile Application Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammedfurkansahin](https://github.com/muhammedfurkansahin)
 
